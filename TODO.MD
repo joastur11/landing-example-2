@@ -11,7 +11,8 @@
   El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
 
 # Navbar
-  Logo-Nombre ---- About, Circuitos, Contacto (buscar mas refes)
+  Algo con el color
+  href
 
 # Hero
   Foto grande de fondo en el medio, Texto intro a la izquierda (capaz en una card transparente)
