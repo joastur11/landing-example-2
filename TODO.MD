@@ -8,17 +8,14 @@
 - Footer
 
 # General
-  El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
+  Capaz El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
 
 # Navbar
   Algo con el color
   href
 
-# Hero
-  El difuminado de abajo de la foto 
-
 # About
-  Info, con otra foto o varias. Los guias (2)
+  Hover a fotos y que resalte el texto?
 
 # Cards
   Fotos de los circuitos en grid con nombre, Hover se agranda y pointer -> Modal en click
