@@ -2,7 +2,7 @@ import { FaLongArrowAltRight } from "react-icons/fa";
 
 export function About (){
   return(
-    <section id="about" className="bg-orange-200 min-h-screen flex items-center justify-center px-4">
+    <section id="about" className="bg-orange-200 min-h-screen flex items-center justify-center px-4 pt-0 md:pt-4">
       <div className="flex flex-col md:flex-row w-full max-w-5xl mx-auto gap-50">
         <div className="flex flex-col items-center justify-center w-full md:w-1/2 gap-4">
           <div className="w-[300px] h-[400px] bg-[url('/images/Guia1.png')] bg-cover bg-center rounded-lg"></div>

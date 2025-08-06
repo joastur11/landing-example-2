@@ -1,9 +1,10 @@
 export function Hero (){
   return(
     <section  className="
+    bg-orange-200
     bg-[url('/images/Hero2.png')]
     bg-cover
-    bg-center
+    bg-bottom
     bg-no-repeat
     min-h-screen
     flex
