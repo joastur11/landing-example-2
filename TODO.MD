@@ -15,7 +15,7 @@
   href
 
 # Hero
-  Foto grande de fondo en el medio, Texto intro a la izquierda (capaz en una card transparente)
+  El difuminado de abajo de la foto 
 
 # About
   Info, con otra foto o varias. Los guias (2)
