@@ -18,7 +18,10 @@
   Hover a fotos y que resalte el texto?
 
 # Cards
-  Fotos de los circuitos en grid con nombre, Hover se agranda y pointer -> Modal en click
+  Modal en click
+
+## Testimonios
+  grid de cuadritos con: "comentario blablab" nombre edad.
 
 # Contact 
   Form para mandar un mail con sus respectivas validaciones
