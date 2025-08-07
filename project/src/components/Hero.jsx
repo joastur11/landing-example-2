@@ -14,7 +14,7 @@ export function Hero (){
         <div className="border border-white/15 ring-1 ring-white/10 bg-white/10 backdrop-blur-md p-6 rounded-lg w-full md:w-[400px] h-[400px] flex flex-col justify-center items-center text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">Pesca como un campeón!</h2>
           <p className="text-lg md:text-xl font-bold text-white mb-8">Guiado por profesionales</p>
-          <a href="" className="
+          <a href="#circuits" className="
             inline-block
             bg-yellow-600
             text-white 
