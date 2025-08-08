@@ -10,16 +10,6 @@
 # General
   Capaz El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
 
-# Navbar
-  Algo con el color
-  href
-
-# About
-  Hover a fotos y que resalte el texto?
-
-# Cards
-  Modal en click
-
 ## Testimonios
   grid de cuadritos con: "comentario blablab" nombre edad.
 
