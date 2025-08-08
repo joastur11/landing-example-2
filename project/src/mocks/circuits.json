@@ -1,0 +1,28 @@
+{
+  "circuits": [
+    {
+      "id": 1,
+      "title": "Circuito Nocturno",
+      "images": "/images/CircModal1.jpg",
+      "details":"Nuestro galardonado y famoso circuito estrella. Una experiencia única, mágica y salvaje. Guiados por Pietro, el rey de la noche náutica, te hipnotizara con sus conocimientos. El conoce todos los sonidos y mañas de la noche, asi como también donde les gusta 'jugar', como dice el, a los peces noctámbulos"
+    },
+    {
+      "id": 2,
+      "title": "Arroyos entrerrianos",
+      "images": "/images/CircModal2.jpg",
+      "details":"El circuito mas relajante y friendly para novatos. Ideal para la familia, un bello paseo por los arroyos, interpretando la flora y fauna, asi como también unos ricos spots de pesca. Querés que el pequeño Timmy pesque su primer bagre? este es el circuito ideal."
+    },
+    {
+      "id": 3,
+      "title": "El gran rio Paraná",
+      "images": "/images/CircModal3.jpg",
+      "details":"Clásico de clásicos. Quizás el mejor lugar para pescar en el mundo? El duo dinámico Pietro y Juan te garantizan tu foto con un Dorado y/o Surubí grande (pescado por vos). Captura tu propio y famoso 'tigre de rio', veloz y fuerte como el felino, no hay nada como pescar un buen Dorado."
+    },
+    {
+      "id": 4,
+      "title": "Arroyos del sur",
+      "images": "/images/CircModal4.jpg",
+      "details":"Juan, no conforme con ser el francotirador del rio, hizo un entrenamiento exhaustivo en pesca con mosca para traerles este circuito. Aprende todos los secretos y triquiñuelas de la pesca en arroyos gélidos. Luego de esta excursion y gracias al duo infalible, podrás pescar truchas como un maldito crack."
+    }
+  ]
+}
