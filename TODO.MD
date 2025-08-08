@@ -11,7 +11,7 @@
   Capaz El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
 
 ## Testimonios
-  grid de cuadritos con: "comentario blablab" nombre edad.
+  grid de cuadritos distintos tamaño con: "comentario blablab" nombre edad.
 
 # Contact 
   Form para mandar un mail con sus respectivas validaciones
