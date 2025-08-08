@@ -11,7 +11,6 @@ export function Navbar (){
         <nav className='space-x-6 hidden md:flex text-yellow-500 font-medium'>
           <a href="#about" className='hover:text-yellow-300'>Nosotros</a>
           <a href="#circuits" className='hover:text-yellow-300'>Excursiones</a>
-          <a href="#reviews" className='hover:text-yellow-300'>Ustedes</a>
           <a href="" className='hover:text-yellow-300'>Contacto</a>
         </nav>
       </div>

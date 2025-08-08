@@ -12,7 +12,7 @@ export function About (){
           <h3 className="text-3xl font-bold mb-4">
             Los Verdaderos Profesionales de la Pesca Deportiva
           </h3>
-          <p className="text-lg">
+          <p className="text-lg font-medium">
             Somos guías con años de experiencia en las aguas más ricas y turbulentas del país. Bajo nuestra ala, podrás ser uno de nosotros, pescar y sentir como nosotros, para capturar tu propio monstruo de rio.
           </p>
           <div className="py-4 grid gap-4 text-left">
@@ -20,14 +20,14 @@ export function About (){
               <FaLongArrowAltRight className='h-6 w-6 text-teal-700 shrink-0' />
               <div className="flex flex-col">
                 <h3 className="px-2 font-bold">Juan Fisher:</h3>
-                <span className="text-left">Campeón mundial de pesca 5 años consecutivos (2015-16-17-18-19). Según expertos, nadie maneja la caña como el. Donde pone el ojo, pone el anzuelo, un francotirador del rio. Con sus indicaciones vas a clavar la caña donde quieras. </span>
+                <span className="text-left font-medium">Campeón mundial de pesca 5 años consecutivos (2015-16-17-18-19). Según expertos, nadie maneja la caña como el. Donde pone el ojo, pone el anzuelo, un francotirador del rio. Con sus indicaciones vas a clavar la caña donde quieras. </span>
               </div>
             </div>
             <div className="flex gap-1">
               <FaLongArrowAltRight className='h-6 w-6 text-teal-700 shrink-0' />
               <div className="flex flex-col">
                 <h3 className="px-2 font-bold">Pietro Pedro Peterson:</h3>
-                <span className="text-left">Criado por nutrias, abandonado como niño en una isla, creció prácticamente en el rio. No importa el clima, profundidad u hora del dia, Pietro puede rastrear un pez como si fuese un tiburón. Ademas, con sus conocimientos de la fauna local, siempre es un lujo escucharlo.</span>
+                <span className="text-left font-medium">Criado por nutrias, abandonado como niño en una isla, creció prácticamente en el rio. No importa el clima, profundidad u hora del dia, Pietro puede rastrear un pez como si fuese un tiburón. Ademas, con sus conocimientos de la fauna local, siempre es un lujo escucharlo.</span>
               </div>
             </div>
           </div>

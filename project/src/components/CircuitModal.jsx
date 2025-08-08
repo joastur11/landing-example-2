@@ -15,7 +15,7 @@ export function Modal ({ isModalOpen, setIsModalOpen, idActivo, setIdActivo }){
         <div onClick={(e)=>e.stopPropagation()} className='max-w-lg rounded bg-amber-500 p-2 z-50 ring-2 ring-teal-700 shadow-lg'>
           <img src={circuito.images} className='ring-2 ring-teal-700 object-cover w-full h-full rounded' alt={circuito.title} />
           <strong className="font-bold flex flex-col items-center text-xl mb-2">{circuito.title}</strong>
-          <p className="flex mt-2 flex-col items-center text-lg font-normal mx-auto text-center"> {circuito.details} </p>
+          <p className="flex mt-2 flex-col items-center text-lg font-normal mx-auto text-center "> {circuito.details} </p>
         </div>
       </div>
     )

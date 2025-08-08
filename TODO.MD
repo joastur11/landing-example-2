@@ -3,15 +3,11 @@
 - Hero
 - About
 - Cards
-- Testimonios
 - Contact (form)
 - Footer
 
 # General
   Capaz El fondo cada section de distinto color, con gradient/mezcla en la union (inv)
-
-## Testimonios
-  grid de cuadritos distintos tamaño con: "comentario blablab" nombre edad.
 
 # Contact 
   Form para mandar un mail con sus respectivas validaciones
