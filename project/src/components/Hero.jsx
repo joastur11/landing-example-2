@@ -21,7 +21,9 @@ export function Hero (){
             px-6 
             py-3 
             rounded-lg 
-            text-lg 
+            text-lg
+            ring
+            ring-white/10 
             font-medium 
             hover:bg-yellow-700 
             transition
