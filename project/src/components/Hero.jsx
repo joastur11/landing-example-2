@@ -1,6 +1,6 @@
 export function Hero (){
   return(
-    <section  className="
+    <section id="hero" className="
     bg-orange-200
     bg-[url('/images/Hero2.png')]
     bg-cover

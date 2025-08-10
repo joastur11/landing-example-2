@@ -1,4 +1,5 @@
 import { GiFishingLure } from "react-icons/gi"
+import { FaGithub } from "react-icons/fa"
 
 export function Navbar (){
   return(
@@ -12,6 +13,7 @@ export function Navbar (){
           <a href="#about" className='hover:text-yellow-300'>Nosotros</a>
           <a href="#circuits" className='hover:text-yellow-300'>Excursiones</a>
           <a href="#contact" className='hover:text-yellow-300'>Contacto</a>
+          <a href="https://github.com/joastur11"><FaGithub className="ml-1 h-6 w-6 items-center" /></a>
         </nav>
       </div>
     </header>
