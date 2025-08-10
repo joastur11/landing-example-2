@@ -8,7 +8,7 @@ export function About (){
           <div className="w-[300px] h-[400px] bg-[url('/images/Guia1.png')] bg-cover bg-center rounded-lg"></div>
           <div className="w-[300px] h-[400px] bg-[url('/images/Guia2.png')] bg-cover bg-center rounded-lg"></div>
         </div>
-        <div className="w-full md:w-2/3 flex flex-col justify-center text-center shadow-xl rounded ring-3 ring-teal-700 bg-amber-400 p-8 h-full self-center">
+        <div className="w-full md:w-2/3 flex flex-col justify-center text-center shadow-xl rounded ring-3 ring-teal-700 bg-amber-500 p-8 h-full self-center">
           <h3 className="text-3xl font-bold mb-4">
             Los Verdaderos Profesionales de la Pesca Deportiva
           </h3>
